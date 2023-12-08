@@ -1,0 +1,67 @@
+﻿  ball.cpp
+  button.cpp
+  coin.cpp
+  Coord.cpp
+  Persone.cpp
+  platform.cpp
+  rating.cpp
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(9,10): error C2092: Тип элемента массива "ArrayCoins" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(7,10): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(7,10): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(7,10): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(18,10): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(18,10): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(18,10): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(23,34): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(23,34): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(23,34): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(23,34): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(28,10): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(28,10): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(28,10): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(40,32): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(40,32): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(40,32): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(40,32): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(42,10): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(42,10): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\rating.cpp(42,10): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+  s3l4.cpp
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(9,10): error C2092: Тип элемента массива "ArrayCoins" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(15,30): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): error C2092: Тип элемента массива "array" не может быть функцией или абстрактным классом
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): error C2259: "Coin": невозможно создать экземпляр абстрактного класса
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coin.h(15,7): message : см. объявление "Coin"
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): message : из-за следующих членов:
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Rating.h(24,28): message : void Coord::Inp(void): абстрактный
+C:\Users\Admin\Desktop\Лабы программирование 3 семестр\Лаба 6\s3l4\Coord.h(44,18): message : см. объявление "Coord::Inp"
+  Создание кода...
